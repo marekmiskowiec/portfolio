@@ -35,6 +35,7 @@ indigo rgb(79, 70, 229) */
 
 html {
   scroll-behavior: smooth;
+  font-size: 100%;
 }
 
 body {
